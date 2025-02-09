@@ -2,6 +2,8 @@
 
 A machine learning-powered crop recommendation system built with Streamlit. This application leverages environmental and soil data to suggest the most suitable crop for a given set of conditions. The model is built using XGBoost and integrates seamlessly with a user-friendly Streamlit interface.
 
+Check it out : https://crop-recommender-web.streamlit.app/
+
 ## Features
 
 - **Interactive Web App:** Built with Streamlit for an intuitive user experience.
