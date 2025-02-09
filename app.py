@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 
 # Load trained model and label encoder
-model = joblib.load("xgboost_crop_recommendation.pkl")
+model = joblib.load("xgboost_crop_recommendation_tuned.pkl")
 label_encoder = joblib.load("label_encoder.pkl")
 
 # Streamlit UI
